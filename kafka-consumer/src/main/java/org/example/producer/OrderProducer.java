@@ -1,7 +1,5 @@
-package producer;
+package org.example.producer;
 
-
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
@@ -17,11 +15,11 @@ public class OrderProducer {
     
     private final KafkaTemplate kafkaTemplate;
     
-    public OrderProducer(KafkaTemplate kafkaTemplate) {
+    OrderProducer(KafkaTemplate kafkaTemplate) {
         this.kafkaTemplate = kafkaTemplate;
     }
     
-    public final void send(final @RequestBody String order) {
+    public void send(final @RequestBody String order) {
         final String messageKey = UUID.randomUUID().toString();
         kafkaTemplate.send(orderTopic, messageKey, order);
     }
