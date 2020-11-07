@@ -1,0 +1,182 @@
+2020-11-02 14:28:53,853 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 13620 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:28:53,856 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:28:55,257 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:28:55,257 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:28:55,375 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:28:55,935 INFO application.Application [main] Started Application in 2.969 seconds (JVM running for 3.644)
+2020-11-02 14:31:15,208 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 14539 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:31:15,234 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:31:17,563 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:31:17,564 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:31:17,663 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:31:18,311 INFO application.Application [main] Started Application in 4.841 seconds (JVM running for 6.708)
+2020-11-02 14:31:40,094 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:35:16,764 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 14861 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:35:16,773 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:35:18,775 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:35:18,776 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:35:18,885 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:35:19,462 INFO application.Application [main] Started Application in 3.813 seconds (JVM running for 4.537)
+2020-11-02 14:35:33,853 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:38:22,693 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 15191 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:38:22,705 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:38:24,314 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:38:24,314 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:38:24,407 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:38:24,953 INFO application.Application [main] Started Application in 3.132 seconds (JVM running for 3.765)
+2020-11-02 15:39:40,951 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 15334 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 15:39:40,962 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 15:39:43,117 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 15:39:43,118 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 15:39:43,322 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 15:39:44,141 INFO application.Application [main] Started Application in 4.558 seconds (JVM running for 7.292)
+2020-11-02 15:39:48,800 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:42:27,081 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 15645 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:42:27,088 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:42:28,933 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:42:28,934 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:42:29,035 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:42:29,577 INFO application.Application [main] Started Application in 3.529 seconds (JVM running for 4.387)
+2020-11-02 14:42:34,479 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:44:12,156 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 15804 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:44:12,172 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:44:13,767 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:44:13,767 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:44:13,869 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:44:14,466 INFO application.Application [main] Started Application in 3.309 seconds (JVM running for 3.998)
+2020-11-02 14:44:57,635 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:45:50,093 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 16005 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:45:50,098 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:45:51,896 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:45:51,897 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:45:51,991 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:45:52,514 INFO application.Application [main] Started Application in 3.334 seconds (JVM running for 3.982)
+2020-11-02 14:45:56,761 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:49:28,459 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 16488 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:49:28,475 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:49:30,324 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:49:30,325 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:49:30,745 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:49:31,535 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2020-11-02 14:49:31,713 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in org.example.controller.OrderController required a bean of type 'producer.OrderProducer' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'producer.OrderProducer' in your configuration.
+
+2020-11-02 14:54:55,881 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 16888 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:54:55,891 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:54:57,507 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:54:57,508 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:54:57,611 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:54:58,271 INFO application.Application [main] Started Application in 3.306 seconds (JVM running for 3.995)
+2020-11-02 14:55:08,893 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:55:33,528 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 17045 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:55:33,532 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:55:35,713 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:55:35,713 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:55:35,950 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:55:36,842 INFO application.Application [main] Started Application in 4.376 seconds (JVM running for 5.293)
+2020-11-02 14:56:15,852 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 17168 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:56:15,858 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:56:17,422 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:56:17,423 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:56:17,522 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:56:18,118 INFO application.Application [main] Started Application in 3.233 seconds (JVM running for 3.968)
+2020-11-02 14:59:19,378 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 14:59:39,697 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 17385 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 14:59:39,711 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 14:59:41,663 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 14:59:41,663 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 14:59:41,779 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 14:59:42,538 INFO application.Application [main] Started Application in 3.704 seconds (JVM running for 4.435)
+2020-11-02 14:59:48,413 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 15:00:14,323 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 17507 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 15:00:14,327 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 15:00:16,229 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 15:00:16,230 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 15:00:16,357 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 15:00:17,156 INFO application.Application [main] Started Application in 3.738 seconds (JVM running for 4.356)
+2020-11-02 15:00:37,515 INFO application.Application [main] Starting Application on rubens-500R5M-500R5W-501R5M with PID 17618 (/home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer/target/classes started by rubens in /home/rubens/workspace-2/spring-kafka/spring-kafka-proof-of-concept/kafka-consumer)
+2020-11-02 15:00:37,546 INFO application.Application [main] No active profile set, falling back to default profiles: default
+2020-11-02 15:00:39,076 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-02 15:00:39,077 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-11-02 15:00:39,184 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-02 15:00:39,740 INFO application.Application [main] Started Application in 3.12 seconds (JVM running for 3.899)
+2020-11-02 15:00:46,518 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-02 15:01:03,594 INFO org.apache.kafka.clients.producer.ProducerConfig [http-nio-8080-exec-2] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = https
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+2020-11-02 15:01:04,078 INFO org.apache.kafka.common.utils.AppInfoParser [http-nio-8080-exec-2] Kafka version : 2.0.1
+2020-11-02 15:01:04,079 INFO org.apache.kafka.common.utils.AppInfoParser [http-nio-8080-exec-2] Kafka commitId : fa14705e51bd2ce5
+2020-11-02 15:01:04,308 WARN org.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] Error while fetching metadata with correlation id 1 : {ordertopic=LEADER_NOT_AVAILABLE}
+2020-11-02 15:01:04,309 INFO org.apache.kafka.clients.Metadata [kafka-producer-network-thread | producer-1] Cluster ID: VsSSY26SSCWK8DKgA_ThIg
+2020-11-02 15:08:16,609 INFO org.apache.kafka.clients.producer.KafkaProducer [Thread-2] [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 30000 ms.
